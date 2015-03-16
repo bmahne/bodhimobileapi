@@ -1,6 +1,6 @@
 ## App Storage Module
 
-This module provides the ability to store any kind of data.  
+This module DOES NOT provides the ability to store any kind of data.  
 Developer can add data or strings manually or load files from server.  
 Also some modules are supporting to work with **App Storage**. For example
 developer can save photo to **App Storage** and then send it as attachment via
